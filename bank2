@@ -1,0 +1,318 @@
+ Will you introduce yourself?
+What are the roles and responsibility of DevOps Engineer?
+Why you choose Cloud/DevOps Field?
+Can you explain what kind of architecture in your company you follow
+What are day to day activities in your company ? OR What skill set you used daily?
+Which technologies you have worked on?
+What you are doing in your project
+Why do you want to shift as DevOps engineer from cloud ?
+What are different cloud service providers?
+Why do you move to cloud from competitive Exams?
+How many team members you have and what are the configurations in your company
+How will you manage your client requirement?
+which troubleshoot you did?
+Can you tell me any 5 Linux command with their usecase.
+which languges used in backend and frontend for your project ?
+Explain your project architecture?
+Which DevOps tools you have worked
+Role in your project?
+Which webserver you use?
+In which language coding is done ?
+Do you setup infra for any project?
+how many versions you manitained parallely?
+how do you deploy code?
+what documentation you've done in devops?
+what kind of backup you are taking? it is automated or manual?
+which bugs you have resolved in your 2-3 yrs exp.?how will you get notification of the bugs?
+what are the OS you launch
+
+What is SDLC?
+Before DevOps and After DevOps?
+what is difference between WAR,EAR ,JAR file 
+
+what is cloud computing ?
+Types of clouds and its examples?
+
+why you choose AWS cloud?
+difference between zone and regions
+Region specific services in AWS
+Non region specific services
+what you actually work in AWS which services you used?
+What is AWS?
+What are platform where we can use AWS?
+How do you manage your infrastructure?
+Can you tell me the difference between availability zone and the region?
+
+What is elastic computing?
+ How many instances can I run?
+What are the different ec2 instances based on their cost? or Can you explain me ec2 pricing model?
+What type of instances you worked on?Tell me it's configuration
+types of instances ? Different types of EC2 instance you have worked on
+what is difference between stopping and termination of instances?
+what is EC-2?what is Elastic word indicate in Ec-2?
+Can you change types of instance?
+Can you tell the frequency of launching Ec-2 in your project?Difference between t2.micro and t3.large?what is T4 ?
+What will happend when you deleted EC-2 instance which attach volume and EIP?
+Which key is used to accessing instance through putty
+Suppose i do SSH enable and in the outbound SSH is not enable how do i access EC2-instance ?
+Suppose we launch EC-2 instance due to some reason my server is shutdown and my IP change so how can you overcome it?
+types of EC2 instances?which are cheapest?
+Can i able to upgrade my EC-2 instance after launching?
+what are on demand and spot instances?
+what is instance store volume exactly?
+How can we safeguard our ec2 instance?
+What is the meaning of General purpose instance?
+Different ways to launch EC-2 instance or ways to launch instances (explain in brief)
+On-Demant vs Spot instance? when spot instance we used?
+Why we used on-Demand instance?
+EC-2 is region specific or zone specific?
+Without disk is it possible to launch EC-2 instance?
+How many EC-2 instance we can launch i.e. default numbers
+T2.Large and it's specification
+Can you explain me the step by step process to launch ec2 instance?
+CPU and RAM configuration of T2.large - 2 core 8 gb ram
+How many categories available in ec2 instance?
+How will you calculate the cost of EC-2 instance and other services?
+How many EC2 instance we can create in vpc?
+How to connect different machine if 1 is created instance & 1 is linux machine
+Who will take decision which configuration is needed?
+EC-2 instance is region specific or non region specific?
+Which EC-2 instance  you launch ?why?tell me the configuration
+I am not able to connect EC-2 Instance What are the issue you troubleshoot?
+What are the packages you install in your VM which are updated?
+i need 2 JAVA versions which run parallel,so how can we do this on windows? 
+How will you take data backup and which data you will take backup in your organisation?
+Diffrence between spot and reserve instance
+What are the types of root devices?
+Before creating EC2 instance I need to run a script, so where I can run my script?
+What is Tenancy in EC2
+ What is t2 or what is its meaning? and its CPU and RAM configuration?
+
+what you understand by security group? explain types ?its permissions?
+Why security group is required?
+How will you rescue something in cloud?
+What is the default outgoing traffic to the security group?
+
+My keypair is lost so it is possible to launch that instance?
+Can you explain what is the keypair?
+What is use of keypairs
+How to connect different machine if 1 is created instance & 1 is linux machine 
+
+what is AMI ? how to create it ?
+what is diffrence between market palce and Cummunity AMI?
+How can i check how many AMI i shared ?
+What does AMI include
+Can I launch multiple instance using Ami?
+Can we share AMI to cross region?
+How to get VM backup
+
+What is EBS?Types of EBS?
+Can you delete our own snapshot ?
+Use of snapshot
+What are the different types of EBS are available?
+Types of volumes in your organization?
+How will you encrypt the EBS volume and EC2
+How can we attach snapshot in diffrent region?
+i want miragte volume to another account is it possible?
+Is it possible to decrease size of volume? 
+while creating volume encryption is possible?share encryption name?
+Is volume attach or not how will you check?
+Which protocol you used for EBS?
+What do you mean by incremental snapshot
+what is SNS?what is practical use of SNS?
+how to deleted ebs snapshots?
+can we auto delete snapshots?
+Explain me some Ebs Volume types & which one is fast
+Storing size of EBS?its pricing structure?
+Linux command for see attach EBS volume?
+EBS and instance store volume difference
+Can EBS support file system interface?
+EBS is faster than S3?which is cheap EBS or S3
+which storage you preffered for data store? why?
+
+What is elastic IP?
+EIP default launch limit
+How many elastic IP we can create in one vpc?
+
+Can we use multiple load balancer in single EC2 machine?
+customer want to stream 50 server what type of load balancer is used?
+what is connection draining?
+What are the different types of load balancer?
+you have 50 database server which load balancer you used?
+What you know about load balancer?types of load balancer? how you create?
+Can you explain the working of network load balancer?and its pratical use
+Can you assign static IP to load balancer?
+Diff bet ALB and NLB
+Have you worked on provisioning on AWS like DB Load balancer and servers
+Why does ELB hold many IP addresses?
+Why classic load balancer is not used many time?
+what is listener?Listner component in LB
+HTTP vs HTTPS
+In LB it is possible to change default port number? what is the condition?
+404 error?
+In LB which one is faster and why ?
+How will load decide where to go ?
+
+What is the difference between load balancer and auto scaling
+how to add existing instance in autoscalling group?
+What is launch group in autoscaling?
+Can you explain what is autoscaling?
+What are the situation to move the traffic or how many ways to distribute the traffic from one ec2 to another, what weight you provide
+if supposed thousand of request comes on your web page and lods was increases what you do and how can you decrease load.
+Benefit of autoscaling?
+Policies in autoscalling
+Scale up and scale down ?
+how much time require to pass health check
+Min and max. desired value ? explain
+what is horizonatal and vertical scaling?
+ is rebalancing work in Auto scaling
+warm up time ?
+what information you collect from your client regarding to autoscaling?
+use of health check?
+which instance you create for autoscalling
+
+What is the connectivity options for VPC?
+Can we use existing AMI in new vpc?
+what is difference between NAT gatway and NAT instance?
+What is subnet?
+How many vpc can I create?
+how many subnet have in one VPC?
+Do you know the difference between security group and NACL?
+Explain NACL
+how to monitor AWS VPC and employees not able  access server in another VPC how to troubleshoot?
+where we use peering connection ? or VPC peering for what purpose? in VPC peering I am not able communicate?how I can troubleshoot?
+172.16.1.1 it is public or private?
+you have 50 database server where would you place it in VPC?
+Is it possible to establish peering connection to vpc in different regions?
+How can a EC2 instance in private vpc established a connection to the internet?
+Can you explain the difference between public and private subnet?
+What is CIDR?
+Tell me any five networking commands with their use case?
+NAT instance is a part of which service? VPC
+What is route table?
+Can you tell me the difference between state full and stateless firewall?
+which cofiguration have you done in your private VPC ?
+diff between NAT and NACL
+how to access private vpc from public ?
+Components of vpc
+How to change CIDR range if vpc is created
+VPC Endpoints
+VPC peering connection manual or Teraform
+Site to side VPN
+NAT gateway where we create and what will be in the route table
+How many IGW connect to VPC 
+Diff between private and public subnet 
+Where do we keep the NAT gateway
+What is diff between USER and ROLE 
+what is positive use of private ip address?
+what is VPC and IGW ?
+Can we change EC2 instance private ip address when it is ruuning state or in stopped state...Reason?
+How do you secure EC2 inside VPC 
+Sercurity in VPC?
+property of broadcasting and multicasting
+What is routing table and its purpose?
+can you launch EC2 instance with predefine private IP address?
+What is IP address?
+Suppose i have 2 CIDR block so is it possible to connect using same IP
+Different layers of OSI model
+what is rule number?
+what do you mean by transitive peering?
+If i give you IP and it is not connecting then what troubleshoot you will do?
+
+Do you know what are the storage classes available for the S3?
+What is S3 bucket?How many s3 buckets we can create in AWS account?
+Can you explain versioning in S3 bucket?
+what is S3? Can we use CDN in front of S3?
+what is block storage and object storage?What do you mean by object storage?
+which storage provide redundancy ? across the data center--S3
+how you can monitor S3 cross-region replication to ensure consistency without checking the bucket?
+i want to upload 120mb file in S3 how I do it?multipart upload utility it's allow more than 100mb
+Can you use S3 bucket with ec2 instance?
+can we host static and dynamic website on S3 ? Can we host the dynamic website using S3?What is static hosting in s3
+What is replication in S3?S3 cross region replication?What is the default condition before doing cross region replication?
+What is the default storage class for the S3 bucket?
+What are the S3 data encryption types?
+Tell me the steps to do cross region replication?
+What are the lifecycle in s3
+If bucket is public then how you make it private 
+For website hosting which service use it 
+If I want to deploy a static website in AWS, so as a cloud Engineer what solution will you recommend to them?
+how to take backup of s3 using script?
+S3 data store limit and time?how will you delete s3 bucket
+How S3 works?S3 architecture
+in which class you store data?is it possible to store data in glacier?
+object lock feature in S3?
+How many s3 buckets in your organization and what you store in that,(share flow)?how life cycle manages
+How s3 classes cost less ?
+
+What is the difference between ebs and efs?
+what is difference between EFS and S3?
+how 5gb file stored in S3 and EFS? And what are the underlying protocols?
+cost wise compair which of the storage is chipest and which one costly?---efs is costly
+how taking backup of EFS
+diff between EBS vs EFS vs S3
+Which volume type is not Bootable?
+EFS similar to windows FSX
+what is positive use of EFS ?
+
+What is the difference between IAM role and IAM user
+what is power user access in AWS?
+what are the different IAM catagory you can control?
+what is resorce base policy --- IAM policy
+What are the IAM identities?
+What is the role in IAM? IAM Group ?
+What is policy in IAM?
+What is the difference between manage policy and inline policy?
+Can you explain the access key in IAM user?
+how to give access to IAM user ?
+what is IAM Role?
+what is MFA in aws?
+
+i have 50 server using which tool moniter and helth check the server??
+how to recover E2 instance using cloud watch??
+what is cloud watch?what is different actions in alarm?
+will you monitor cross region replication?
+what are different actions present in alarm??
+Can you tell me how alarm is set in cloudwatch?
+Tell me about cloudwatch metrics?type of matrics
+What is the purpose of log groups in cloudwatch?
+from cloudwatch which services have you monitored ?
+What metrics you have created for cloud watch 
+If any instance is stop or crashed how will you monitor it and manage it How the SNS is triggered for any this situation
+which tool you used for monintoring
+how will you delete alram
+does cloudwatch agent support IAM role?
+what is cloudwatch log agent stores ?
+how can i get my log data?
+what is events ?
+
+what is topic in SNS? SNS service use ?
+SNS and SQS are push baesd or pull based ?
+which protocols are SNS supported ?
+
+what is difference between cloud watch log and VPC flow log?
+How can you monitor a traffic in your VPC?
+where vpc logs are stored ?
+
+what is AWS trail ? What kind of logs stored? What is cloud trail?
+someone accidentally deleted one server in customer environment how you know who did that?
+some one deleted VPC how will you check who deleted VPC?
+Difference between colud trail and cloudwatch
+four pillars of cloud trails
+what is events?
+
+What do you mean by cloudFront?and it's flow??
+what is geo targeting in cloud front?
+What are the different type of servers available in cloud front?
+What is the use of edge locations?
+What are the different distributions available in the cloud front?
+diff between cloudwatch and cloudfront
+what is invalidation?how to create invalidation ?
+
+Whats is RDS?
+What type instances you used for RDS Create table command
+Draw structure of your web  applications how to deploy and build project how you use middleware RDS and service.
+
+what is AWS route 53?why we use?
+how cloud trail and route 53 work together?
+Routing policy in route 53
